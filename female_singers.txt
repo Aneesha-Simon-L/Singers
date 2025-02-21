@@ -1,0 +1,16 @@
+1.
+
+name : Sujatha Mohan
+
+industry : Malayalam
+
+current status : active
+
+
+2.
+
+name : Neha Kakkar
+
+industry : Bollywood
+
+current status : active
